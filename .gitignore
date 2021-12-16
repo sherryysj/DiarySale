@@ -1,0 +1,5 @@
+/shared/db.config
+/shared/system.config
+
+/vendor
+/composer.lock
